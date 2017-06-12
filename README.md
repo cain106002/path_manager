@@ -11,4 +11,8 @@ For new users: <br>
 4)type the path of the toolboxes in the edit area;<br>
 5)click save and restart the path_manager;<br>
 
+command version:<br>
+pm_add: example: pm_add('spm12'); % add spm12 to your path<br>
+pm_rm: example: pm_rm('spm12'); % remove spm12 from your path<br>
+
 now, you can use it.
